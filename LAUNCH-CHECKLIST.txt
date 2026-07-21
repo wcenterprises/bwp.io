@@ -1,0 +1,15 @@
+LUMA NOIRE WEBSITE LAUNCH CHECKLIST
+
+[ ] Replace all placeholder images
+[ ] Add final email address
+[ ] Add Instagram link
+[ ] Add final investment details
+[ ] Create Formspree form and replace YOUR_FORM_ID
+[ ] Confirm business name and copyright wording
+[ ] Add social-preview.jpg to images/branding/
+[ ] Update canonical URLs if domain differs
+[ ] Test every page on desktop and mobile
+[ ] Test contact form
+[ ] Enable GitHub Pages
+[ ] Connect custom domain
+[ ] Submit sitemap to Google Search Console
